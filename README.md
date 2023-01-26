@@ -1,1 +1,1 @@
-# printf
+In this project wwe tried to replicate the c printf function
